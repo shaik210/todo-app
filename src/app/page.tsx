@@ -11,6 +11,7 @@ export default function Home() {
       height:"100vh"
     }}>
       <div>
+        <h1>TODO APP</h1>
         <input type="text" />
         <button type="button"> OK </button>
       </div>
